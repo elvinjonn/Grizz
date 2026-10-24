@@ -1,3 +1,0 @@
-aiogram>=3.17
-aiohttp>=3.10
-motor>=3.6
